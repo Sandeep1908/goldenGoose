@@ -1,0 +1,85 @@
+ .sbsmodificator { overflow:hidden!important; } 
+
+@media only screen and (min-device-width : 960px) {
+.abzac {
+    text-indent: 156px;
+}
+
+.abzac1 {
+    text-indent: 298px;
+}
+
+.abzac3 {
+    text-indent: 96px;
+}
+
+.abzac4 {
+    text-indent: 141px;
+}
+
+.abzac5 {
+    text-indent: 204px;
+}
+
+.abzac6 {
+    text-indent: 300px;
+}
+
+.abzac7 {
+    text-indent: 362px;
+}
+
+.abzac8 {
+    text-indent: 57px;
+}
+
+.abzac9 {
+    text-indent: 96px;
+}
+}
+
+
+#rec495672712 .t-submit {
+/*Duration*/
+transition: all 0.2s ease-in-out;
+}
+#rec495672712 .t-submit:hover {
+/*Color on Hover*/
+color: #121428 !important;
+/*Border on Hover*/
+border-color: white !important;
+/*bgcolor on Hover*/
+background-color: #a89d78 !important;
+}
+
+#rec495979125 .t-submit {
+/*Duration*/
+transition: all 0.2s ease-in-out;
+}
+#rec495979125 .t-submit:hover {
+/*Color on Hover*/
+color: #121428 !important;
+/*Border on Hover*/
+border-color: white !important;
+/*bgcolor on Hover*/
+background-color: #a89d78 !important;
+}
+
+
+
+@media screen and (max-width: 480px) { /*Максимальная ширина смартфона где будет применяться эффект сетки зеро-блока*/
+
+.t-col { padding: 0px; } /*Это отступы слева и справа до контента в Grid-контейнере*/
+
+.t-container {
+
+max-width: 300px !important; /*Это максимальная ширина контейнера в зеро-блоке, при отображении мобильного*/
+
+}
+
+}
+
+.t-popup__container {
+border-radius: 12px;
+}
+ 
